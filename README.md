@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fedep4lpi
+- 🌱 I’m currently learning js
+- 👀 I’m interested in weB and ml
+- 🤝 I’m looking to collaborate with Sacco Francesco ...
